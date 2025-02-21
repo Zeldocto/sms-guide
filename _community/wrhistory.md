@@ -108,6 +108,13 @@ Times above on Reset Timing, Times below on File Select timing
 1:13:17 by *Anonymous* on August 1, 2021  
   
 ### 2022  
+#### No Improvements  
+
+### 2023
+**[1:13:08](https://www.youtube.com/watch?v=U7o5L7720_0)** by JJsrl on August 9, 2023  
+**[1:13:05](https://www.speedrun.com/sms/runs/y8wgxj1y)** by toobou on June 1, 2023  
+**[1:12:58](https://www.youtube.com/watch?v=zbZv0sEu6Ec)** by toobou on June 9, 2023  
+**[1:12:51](https://www.youtube.com/watch?v=y3nhWI-gmsI)** by inkstar on July 30, 2023  
   
   
 ## 120 Shines World Record History  
@@ -216,4 +223,18 @@ Times above on Reset Timing, Times below on File Select timing
   
 ### 2022  
 **[2:53:16](https://www.youtube.com/watch?v=ZDlN0Y-88A4)** by SB_runs on November 30, 2022  
-  
+
+### 2023  
+**[2:52:41](https://www.youtube.com/watch?v=N8cyG1M_uho)** by SB_runs on February 11, 2023  
+**[2:52:36](https://www.speedrun.com/sms/runs/y2gkvx9z)** by Nanashi on July 16, 2023  
+**[2:52:31](https://www.youtube.com/watch?v=U7LDjVA4gWE)** by SB_runs on August 6, 2023  
+**[2:52:26](https://www.youtube.com/watch?v=UTXwA3VXGH0)** by SB_runs on August 13, 2023  
+**[2:52:24.630](https://www.speedrun.com/sms/runs/yllvqdky)** by Nanashi on October 9, 2023  
+
+### 2024  
+**[2:52:24.230](https://www.youtube.com/watch?v=O-uc-up7-B4)** by SB_runs on January 11, 2024  
+**[2:51:34](https://www.speedrun.com/sms/runs/zppv46rz)** by Nanashi on January 21, 2024  
+**[2:51:32](https://www.youtube.com/watch?v=hhX-qBH8-eU)** by SB_runs on December 6, 2024  
+
+### 2025  
+**[2:51:14](https://www.youtube.com/watch?v=v76CqZHYFCQ)** by SB_runs on January 7, 2025  
